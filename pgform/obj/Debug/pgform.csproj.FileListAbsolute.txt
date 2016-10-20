@@ -20,3 +20,14 @@ D:\Praktika\form\1\pgform\pgform\obj\Debug\pgform.csprojResolveAssemblyReference
 D:\Praktika\form\1\pgform\pgform\obj\Debug\pgform.Form1.resources
 D:\Praktika\form\1\pgform\pgform\obj\Debug\pgform.Properties.Resources.resources
 D:\Praktika\form\1\pgform\pgform\obj\Debug\pgform.csproj.GenerateResource.Cache
+D:\xr\q\pgform\pgform\bin\Debug\pgform.exe.config
+D:\xr\q\pgform\pgform\obj\Debug\pgform.exe
+D:\xr\q\pgform\pgform\obj\Debug\pgform.pdb
+D:\xr\q\pgform\pgform\bin\Debug\pgform.exe
+D:\xr\q\pgform\pgform\bin\Debug\pgform.pdb
+D:\xr\q\pgform\pgform\bin\Debug\Npgsql.dll
+D:\xr\q\pgform\pgform\bin\Debug\Npgsql.xml
+D:\xr\q\pgform\pgform\obj\Debug\pgform.csprojResolveAssemblyReference.cache
+D:\xr\q\pgform\pgform\obj\Debug\pgform.Form1.resources
+D:\xr\q\pgform\pgform\obj\Debug\pgform.Properties.Resources.resources
+D:\xr\q\pgform\pgform\obj\Debug\pgform.csproj.GenerateResource.Cache
